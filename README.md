@@ -1,31 +1,86 @@
+<h1 align="center">Hey there! 👋 I'm Mustaqueem Alam</h1>
 
-<h1 align="center">Hello 👋, I'm Mustaqueem Alam</h1>
-<h3 align="center">👋 CSE undergrad @iub | 🐍 Python | ☕ Java | 🚀 Passionate about tech solutions | Let's code ;</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaqueemalam&label=Profile%20views&color=0e75b6&style=flat" alt="mustaqueemalam" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mustaqueem63963" target="blank"><img src="https://img.shields.io/twitter/follow/mustaqueem63963?logo=twitter&style=for-the-badge" alt="mustaqueem63963" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/MustaqueemAlam](https://github.com/MustaqueemAlam)
-
-- 📫 How to reach me **mustaqueem2000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mustaqueem63963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaqueem63963" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustaqueem-alam-359a9228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustaqueem-alam-359a9228a" height="30" width="40" /></a>
-<a href="https://fb.com/mustaqueem778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustaqueem778" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mustaqueem2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustaqueem2000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mustaqueemalam778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustaqueemalam778" height="30" width="40" /></a>
-<a href="https://discord.gg/mustaqueem778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustaqueem778" height="30" width="40" /></a>
+<p align="center">
+  🎓 CSE Undergrad @ IUB &nbsp;|&nbsp; 🐍 Pythonista &nbsp;|&nbsp; ☕ Java Junkie <br>
+  🚀 Passionate about real-world tech solutions &nbsp;|&nbsp; 💡 Let's build something cool!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Always+learning+new+things!;Building+projects+that+matter.;AI+%7C+IoT+%7C+Fullstack+Dev;Let's+connect+and+create+together!" alt="Typing SVG">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaqueemalam&show_icons=true&locale=en&layout=compact" alt="mustaqueemalam" /></p>
+<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqueemalam&show_icons=true&locale=en" alt="mustaqueemalam" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqueemalam&" alt="mustaqueemalam" /></p>
+### 🔍 About Me
+- 👨‍💻 I build full-stack projects & smart tech for real-world problems.
+- 🧠 Always exploring: AI, IoT, Cloud, and Open Source.
+- 🛠️ Tech enthusiast with a keen eye for design & scalability.
+- 🌐 Check out my work at [github.com/MustaqueemAlam](https://github.com/MustaqueemAlam)
+- 📫 Email me at: **mustaqueem2000@gmail.com**
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://twitter.com/mustaqueem63963"><img src="https://img.shields.io/twitter/follow/mustaqueem63963?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/mustaqueem-alam-359a9228a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://fb.com/mustaqueem778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/mustaqueem2000"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/mustaqueemalam778"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://discord.gg/mustaqueem778"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mustaqueemalam&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueemalam&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mustaqueemalam&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 Goals for 2025
+- 🔥 Contribute to open-source projects
+- 🎓 Research and learn AI/ML fundamentals  
+- 🚀 Launch a SaaS-based web app
+- 🌍 Collaborate with global dev communities
+
+---
+
+### 📌 Pinned Projects
+
+Check out my most impactful work:
+
+- 📡 [SmartLease-Rental-System-Design](https://github.com/MustaqueemAlam/SmartLease-Rental-System-v1)
+- 📡 [GYM-and-Fitness-Store-Management-System-Web-Application](https://github.com/MustaqueemAlam/GYM-and-Fitness-Store-Management-System-Web-Application)
+- 📡 [Immigration-Consultancy-Firm-Desktop-App](https://github.com/MustaqueemAlam/Immigration-Consultancy-Firm--Desktop-App)
+
+---
+
+<h3 align="center">🚀 Let's learn, build, and innovate together!</h3>
