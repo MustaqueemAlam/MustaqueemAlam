@@ -25,7 +25,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://twitter.com/mustaqueem63963"><img src="https://img.shields.io/twitter/follow/mustaqueem63963?style=for-the-badge" /></a>
+  <a href="https://twitter.com/mustaqueem63963"><img src="https://img.shields.io/twitter/follow/MustaqueemAlam_?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/mustaqueem-alam-359a9228a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://fb.com/mustaqueem778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/mustaqueem2000"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
