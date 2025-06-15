@@ -60,8 +60,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustaqueemalam&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mustaqueemalam&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
 
