@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mustaqueemalam&theme=halloween" alt="GitHub Streak" />
-  <br />
+  <br/>
 </p>
 
 
