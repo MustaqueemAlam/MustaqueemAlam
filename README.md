@@ -15,7 +15,7 @@
 
 ### 🔍 About Me
 - 👨‍💻 I build full-stack projects & smart tech for real-world problems.
-- 🧠 Always exploring: AI, IoT, Cloud, and Open Source.
+- 🧠 Exploring: AI, IoT, Cloud, and Open Source.
 - 🛠️ Tech enthusiast with a keen eye for design & scalability.
 - 🌐 Check out my work at [github.com/MustaqueemAlam](https://github.com/MustaqueemAlam)
 - 📫 Email me at: **mustaqueem2000@gmail.com**
