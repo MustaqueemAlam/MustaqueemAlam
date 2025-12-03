@@ -64,8 +64,22 @@
 ---
 
 ### 📊 GitHub Stats
+ 
+<div align="center">
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mustaqueem2000&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem2000&layout=compact&theme=radical" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=mustaqueem2000&theme=halloween" alt="GitHub Streak" /> </p>
+<a href="https://github.com/mustaqueem2000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustaqueem2000&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mustaqueem2000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem2000&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/mustaqueem2000">
+  <img src="https://streak-stats.demolab.com?user=mustaqueem2000&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 
 ---
