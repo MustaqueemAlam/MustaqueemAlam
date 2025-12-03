@@ -65,15 +65,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Repos-20-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-50-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Following-30-yellow?style=for-the-badge" />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaqueemAlam&theme=github_dark" />
+  <img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaqueemAlam&theme=github_dark" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-Python_|_JS_|_Node_|_ML-orange?style=for-the-badge" />
-</p>
-
 
 
 
