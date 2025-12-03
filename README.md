@@ -64,16 +64,18 @@
 ---
 
 ### 📊 GitHub Stats
- 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustaqueem2000&show_icons=true&theme=nightowl&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem2000&layout=compact&theme=nightowl&hide_border=true" width="45%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mustaqueem2000&theme=nightowl&hide_border=true" />
-</p>
+<img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=mustaqueem2000&theme=github_dark" width="90%" />
+
+<img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustaqueem2000&theme=github_dark" width="45%" />
+<img src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustaqueem2000&theme=github_dark" width="45%" />
+
+<img src="https://profile-summary-cards.vercel.app/api/cards/stats?username=mustaqueem2000&theme=github_dark" width="45%" />
+<img src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=mustaqueem2000&theme=github_dark" width="45%" />
+
+</div>
 
 
 ---
