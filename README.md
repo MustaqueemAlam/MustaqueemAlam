@@ -62,20 +62,19 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Repos-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-50-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Following-30-yellow?style=for-the-badge" />
+</p>
 
-<img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=mustaqueem2000&theme=github_dark" width="90%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-Python_|_JS_|_Node_|_ML-orange?style=for-the-badge" />
+</p>
 
-<img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustaqueem2000&theme=github_dark" width="45%" />
-<img src="https://profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustaqueem2000&theme=github_dark" width="45%" />
 
-<img src="https://profile-summary-cards.vercel.app/api/cards/stats?username=mustaqueem2000&theme=github_dark" width="45%" />
-<img src="https://profile-summary-cards.vercel.app/api/cards/productive-time?username=mustaqueem2000&theme=github_dark" width="45%" />
-
-</div>
 
 
 ---
