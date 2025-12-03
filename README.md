@@ -25,9 +25,20 @@
 ### 🌐 Let's Connect
 
 <p align="left">
+  <a href="https://www.researchgate.net/profile/Mustaqueem-Alam">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+  </a>
+  
+  <a href="https://ieeexplore.ieee.org/author/794871105413028">
+    <img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+
+  <a href="https://scholar.google.com/citations?hl=en&user=gFh1KccAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
   <a href="https://twitter.com/mustaqueem63963"><img src="https://img.shields.io/twitter/follow/MustaqueemAlam_?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/mustaqueem-alam-359a9228a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://fb.com/mustaqueem778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://fb.com/mustaqueem7788"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/mustaqueem2000"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://www.leetcode.com/mustaqueemalam778"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://discord.gg/mustaqueem778"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
