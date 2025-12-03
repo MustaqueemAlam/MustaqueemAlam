@@ -64,22 +64,16 @@
 ---
 
 ### 📊 GitHub Stats
- 
-<div align="center">
 
-<a href="https://github.com/mustaqueem2000">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustaqueem2000&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustaqueem2000&show_icons=true&theme=graywhite&icon_color=000&text_color=000&title_color=000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem2000&layout=compact&theme=graywhite&text_color=000&title_color=000" width="48%">
+</p>
 
-<a href="https://github.com/mustaqueem2000">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem2000&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mustaqueem2000&theme=default" />
+</p>
 
-<a href="https://github.com/mustaqueem2000">
-  <img src="https://streak-stats.demolab.com?user=mustaqueem2000&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 
 ---
