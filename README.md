@@ -79,7 +79,6 @@
 
 Check out my most impactful work:
 
-- 📡 [SmartLease-Rental-System-Design](https://github.com/MustaqueemAlam/SmartLease-Rental-System-v1)
 - 📡 [GYM-and-Fitness-Store-Management-System-Web-Application](https://github.com/MustaqueemAlam/GYM-and-Fitness-Store-Management-System-Web-Application)
 - 📡 [Immigration-Consultancy-Firm-Desktop-App](https://github.com/MustaqueemAlam/Immigration-Consultancy-Firm--Desktop-App)
 - 📡 [Dental-xray-anomaly-detector-yolov10-Ai-Based-WebApp](https://github.com/MustaqueemAlam/dental-xray-anomaly-detector-yolov10)
