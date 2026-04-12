@@ -54,7 +54,7 @@
     <td width="50%" valign="top">
       <h3>🦷 Dental X-ray AI</h3>
       <p>AI-powered anomaly detection in dental X-rays using YOLOv10 deep learning model.</p>
-      <p><strong>Tech Stack:</strong> Python • YOLOv10 • FastAPI • React</p>
+      <p><strong>Tech Stack:</strong> Python • YOLOv10 • FastAPI • Node.js • Express</p>
       <a href="https://github.com/MustaqueemAlam/dental-xray-anomaly-detector-yolov10">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
       </a>
@@ -99,13 +99,16 @@
 
 ---
 
-## 📈 **GitHub Statistics**
+## 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaqueemAlam&theme=github_dark" alt="GitHub Profile Stats" />
-  <img src="https://profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustaqueemAlam&theme=github_dark" alt="Language Distribution" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MustaqueemAlam&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustaqueemAlam&show_icons=true&theme=github_dark&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaqueemAlam&layout=compact&theme=github_dark" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaqueemAlam&theme=github_dark" />
+</p>
 
 ---
 
