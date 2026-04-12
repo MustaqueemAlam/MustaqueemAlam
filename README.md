@@ -102,13 +102,25 @@
 ## 📈 **GitHub Statistics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustaqueemAlam&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaqueemAlam&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MustaqueemAlam&theme=github-dark)](https://git.io/streak-stats)
+  
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustaqueemAlam&theme=github-dark" alt="GitHub Streak Stats" />
+  <a href="https://github.com/MustaqueemAlam">
+    <img src="https://img.shields.io/github/followers/MustaqueemAlam?style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MustaqueemAlam">
+    <img src="https://img.shields.io/github/stars/MustaqueemAlam?style=social" alt="GitHub Stars" />
+  </a>
 </p>
+
+---
+
+### 📊 **My Contributions**
+
+![](https://github.com/MustaqueemAlam/MustaqueemAlam/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🎓 **Academic & Research**
