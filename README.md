@@ -99,17 +99,16 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 **GitHub Statistics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustaqueemAlam&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaqueemAlam&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustaqueemAlam&show_icons=true&theme=github_dark&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustaqueemAlam&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustaqueemAlam&theme=github-dark" alt="GitHub Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://profile-summary-cards.vercel.app/api/cards/profile-details?username=MustaqueemAlam&theme=github_dark" />
-</p>
-
 ---
 
 ## 🎓 **Academic & Research**
@@ -130,7 +129,7 @@ I'm actively involved in research and academic collaboration:
 
 ---
 
-## 🎯 **2025 Goals**
+## 🎯 **2026 Goals**
 
 - 🔥 **Open Source Contribution** - Make meaningful contributions to impactful projects
 - 🧠 **AI/ML Mastery** - Deep dive into machine learning and neural networks
