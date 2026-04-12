@@ -169,7 +169,7 @@ I'm actively involved in research and academic collaboration:
   <a href="https://www.hackerrank.com/mustaqueem2000">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/mustaqueem7788">
+  <a href="https://www.facebook.com/mustaqueem.io">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://discord.gg/mustaqueem778">
