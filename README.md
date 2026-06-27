@@ -50,12 +50,12 @@
       </a>
     </td>
   </tr>
-  <tr>
+  <tr> 
     <td width="50%" valign="top">
       <h3>🦴 Impact of Image Preprocessing on Fetal Ultrasound</h3>
       <p>Deep learning-based fetal ultrasound classification using ResNet-50 with comparative evaluation of image preprocessing techniques under class imbalance.</p>
       <p><strong>Tech Stack:</strong> Python • Resnet-50 • Deep Learning </p>
-      <a href="https://github.com/MustaqueemAlam/dental-xray-anomaly-detector-yolov10">
+      <a href="https://github.com/MustaqueemAlam/impact-of-image-preprocessing-on-fetal-ultrasound">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -63,7 +63,7 @@
       <h3>👥 Explainable Stress Classification</h3>
       <p>Predicting student health risk with explainable machine learning using XGBoost, SHAP, and feature engineering.</p>
       <p><strong>Focus Areas:</strong> Python • Machine Learning • xAI </p>
-      <a href="https://github.com/MustaqueemAlam">
+      <a href="https://github.com/MustaqueemAlam/explainable-stress-classification">
         <img src="https://img.shields.io/badge/Explore%20More-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
